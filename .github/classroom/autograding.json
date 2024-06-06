@@ -35,7 +35,7 @@
      "setup": "g++ -g -o main main.cpp Producto.cpp Verdura.cpp Combo.cpp Pedido.cpp",
      "run": "./main",
      "input": "4",
-     "output": "P1,$30,10,$300\nP2,$10,15,$150\nP3,$20,20,$400\nP4,$10,10,$100\nP5,$70,11,$770\nP6,$45,14,$630\nP7,$10,14,$140\nP8,$45,15,$675\n8 articulos\nTotal a pagar $3165\n",
+     "output": "P1-$30-10-$300\nP2-$10-15-$150\nP3-$20-20-$400\nP4-$10-10-$100\nP5-$70-11-$770\nP6-$45-14-$630\nP7-$10-14-$140\nP8-$45-15-$675\n8 articulos\nTotal a pagar $3165\n",
      "comparison": "included",
      "timeout": 2,
      "points": 25
